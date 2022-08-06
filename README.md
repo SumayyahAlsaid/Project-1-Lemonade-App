@@ -40,3 +40,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Lemonade App - Video 
+----
+
+https://user-images.githubusercontent.com/109922953/183266225-763b03cb-907c-4082-8760-2eb59cd46fd6.mp4
