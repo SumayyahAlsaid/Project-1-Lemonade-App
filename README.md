@@ -44,4 +44,4 @@ Tips
 Lemonade App - Video 
 ----
 
-https://user-images.githubusercontent.com/109922953/183266225-763b03cb-907c-4082-8760-2eb59cd46fd6.mp4
+https://user-images.githubusercontent.com/109922953/183266286-2774e75f-0769-49d1-8b80-18d64a71e53f.mp4
